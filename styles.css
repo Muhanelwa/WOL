@@ -85,13 +85,6 @@ button {
     flex: 0 0 auto;
 }
 
-/* Updated logo style to use an actual image instead of placeholder */
-.logo {
-    width: 150px;
-    height: auto;
-    display: block;
-}
-
 /* Hero Section */
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('media/outsidechurch2.jpg');
